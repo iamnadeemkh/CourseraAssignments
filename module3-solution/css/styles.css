@@ -1,0 +1,16 @@
+body{
+	font-size: 18px;
+	
+	font-family: 'Oxygen', sans-sarif;
+}
+
+#header-nav{
+	background-color: black;
+	border-radius: 0;
+    border: 0;
+}
+
+#divp{
+	background-color: grey;
+	color: black;
+}
